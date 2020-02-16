@@ -40,4 +40,10 @@ int main()
 		elmas(value,3);
 	}
 
+	if (select == 0)
+	{
+		return 0;
+	}
+
+	return 0;
 }
